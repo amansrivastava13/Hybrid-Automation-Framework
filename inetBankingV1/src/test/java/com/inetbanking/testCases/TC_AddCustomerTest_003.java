@@ -31,7 +31,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 		addcust.custName("Warrior");
 		addcust.custgender("male");
 		addcust.custdob("10", "13", "1997");
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		addcust.custaddress("India");
 		addcust.custcity("Lucknow");
 		addcust.custstate("UP");
@@ -43,7 +43,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 		addcust.custpassword("qwerty12345");
 		addcust.custsubmit();
 		
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		
 		logger.info("validation started...");
 		

@@ -1,0 +1,10 @@
+For Windows--> run.bat
+For Linux--> run.sh
+
+
+
+Steps to create a file:
+
+1. cat>filename
+2. Add contet to your file
+3. Ctrl+D
